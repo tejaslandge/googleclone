@@ -204,3 +204,17 @@ footer .footer-right {
  border-radius: 4px;
  box-sizing: border-box;
 }
+
+.form1{
+    
+    margin:2%;
+    width: 100%;
+    max-width: 584px;
+    padding-top: 6px;
+    position: relative;
+    border: 2px solid #aaa;
+    background-color: transparent;
+    color: #000000;
+    margin: 8px 0;
+    outline: none;
+}
